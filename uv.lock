@@ -98,7 +98,7 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "django", specifier = ">=5.2" },
-    { name = "wagtail", specifier = ">=6.3.0,<=6.4" },
+    { name = "wagtail", specifier = ">=6.3.0" },
 ]
 
 [package.metadata.requires-dev]
